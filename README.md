@@ -1,6 +1,8 @@
 ## Space Shooter
 
 Modern 2D space shooter game built with Unity (URP) and the new Input System.
+<img width="507" height="893" alt="Ekran görüntüsü 2025-09-29 145857" src="https://github.com/user-attachments/assets/b433c7fe-4550-4d9b-8449-761b8b724f13" />
+<img width="492" height="892" alt="Ekran görüntüsü 2025-09-29 150154" src="https://github.com/user-attachments/assets/e4f116e5-6e36-423d-81b3-3366db634753" />
 
 ---
 
