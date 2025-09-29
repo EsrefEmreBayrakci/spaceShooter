@@ -29,7 +29,7 @@ Modern 2D space shooter game built with Unity (URP) and the new Input System.
 - Space or Left Mouse: Fire
 - Escape: Pause/Menu 
 
-Gamepad (if connected):
+Gamepad:
 - Left Stick / D-Pad: Move
 - South Button (A / Cross): Fire
 - Start/Menu: Pause
@@ -83,7 +83,7 @@ Mobile:
 - Space veya Sol Tık: Ateş
 - Escape: Duraklat/Menü 
 
-Gamepad (varsa):
+Gamepad:
 - Sol Çubuk / D-Pad: Hareket
 - Güney Tuşu (A / Cross): Ateş
 - Start/Menu: Duraklat
