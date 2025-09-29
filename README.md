@@ -27,7 +27,7 @@ Modern 2D space shooter game built with Unity (URP) and the new Input System.
 #### Controls (Desktop)
 - WASD or Arrow Keys: Move
 - Space or Left Mouse: Fire
-- Escape: Pause/Menu (if available)
+- Escape: Pause/Menu 
 
 Gamepad (if connected):
 - Left Stick / D-Pad: Move
@@ -36,10 +36,10 @@ Gamepad (if connected):
 
 Mobile:
 - On-screen joystick from `Assets/Joystick Pack` handles movement
-- On-screen fire button (if present) handles shooting
+- On-screen fire button  handles shooting
 
 #### Build
-- Android: File → Build Settings → Android → Switch Platform → Build. APKs in `oyun/` are example outputs.
+- Android: File → Build Settings → Android → Switch Platform → Build. APKs in `SpaceShooter/` are example outputs.
 - Desktop: File → Build Settings → PC, Mac & Linux Standalone → Build.
 
 #### Project Structure (key folders)
@@ -81,7 +81,7 @@ Mobile:
 #### Kontroller (Masaüstü)
 - WASD veya Yön Tuşları: Hareket
 - Space veya Sol Tık: Ateş
-- Escape: Duraklat/Menü (varsa)
+- Escape: Duraklat/Menü 
 
 Gamepad (varsa):
 - Sol Çubuk / D-Pad: Hareket
@@ -90,10 +90,10 @@ Gamepad (varsa):
 
 Mobil:
 - `Assets/Joystick Pack` içindeki ekrandaki joystick hareketi sağlar
-- Ekrandaki ateş butonu (varsa) ateş etmeyi sağlar
+- Ekrandaki ateş butonu ateş etmeyi sağlar
 
 #### Derleme (Build)
-- Android: File → Build Settings → Android → Switch Platform → Build. Örnek APK'lar `oyun/` klasöründedir.
+- Android: File → Build Settings → Android → Switch Platform → Build. Örnek APK'lar `SpaceShooter/` klasöründedir.
 - Masaüstü: File → Build Settings → PC, Mac & Linux Standalone → Build.
 
 #### Proje Yapısı (önemli klasörler)
