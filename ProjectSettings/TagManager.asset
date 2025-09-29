@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Meteor
+  - Enemy
+  - PlayerMermi
+  - EnemyMermi
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Meteor
+  - EnemyMermi
+  - PlayerMermi
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2869976323
+    locked: 0
+  - name: backgroundUstu
+    uniqueID: 466458289
+    locked: 0
+  - name: gezegen
+    uniqueID: 869825683
+    locked: 0
+  - name: player
+    uniqueID: 1970038049
+    locked: 0
+  - name: efektler
+    uniqueID: 1217822881
+    locked: 0
+  m_RenderingLayers:
+  - Default
